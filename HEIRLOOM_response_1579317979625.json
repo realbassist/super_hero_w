@@ -1,0 +1,253 @@
+{
+  "policyDetailsResultDTO": [
+    {
+      "policyReference": {
+        "recordId": "a2b9D0000004GfcQAE",
+        "financialAccount": null,
+        "acknowledgementCode": null,
+        "acknowledgementDateTime": null,
+        "agentCode": "0R561",
+        "alias": null,
+        "basePlan": {
+          "planCode": "HRT06",
+          "planName": "HEIRLOOM (III)",
+          "notionalAmount": null,
+          "premium": null,
+          "documentType": null
+        },
+        "effectiveDate": "2017-07-03",
+        "freelookEndDatetime": null,
+        "freelookStartDatetime": null,
+        "integrationKey": "CAS-1499045544-HRT06-20170703-108",
+        "isTaxable": false,
+        "matureDate": null,
+        "paymentDate": null,
+        "paymentDueDate": "2019-07-03",
+        "paymentMode": "Annually",
+        "paymentStatus": null,
+        "name": "1499045544",
+        "policyNumber": "1499045544",
+        "policyStatus": "Fully Paid",
+        "policyType": "SIGNATURE",
+        "recordTypeName": "Life",
+        "recordTypeId": null,
+        "sourceSystem": "CAS",
+        "submissionDate": "2017-06-21",
+        "terminationDate": null,
+        "expiryDate": "2125-07-03T00:00:00+00:00"
+      },
+      "policyContactMethod": [
+        {
+          "policyContactPurpose": "Residential",
+          "name": "PCM-2263623",
+          "recordId": "a2a9D000000CdeZQAS",
+          "contactMethod": {
+            "recordId": "a2M9D000000AGoZUAW",
+            "placeName": null,
+            "contactMethodName": null,
+            "contactMethodType": "Address",
+            "contactMethodSubType": null,
+            "contactUsage": null,
+            "preferencePriority": null,
+            "status": "Active",
+            "contactInstructions": null,
+            "phoneCountryCode": null,
+            "phoneAreaCode": null,
+            "phoneNumber": null,
+            "phoneExtension": null,
+            "address": null,
+            "postCode": 63959,
+            "email": null,
+            "externalID": "ADDR-1401385806-1",
+            "sourceSystem": "CAS",
+            "integrationKey": "CAS-ADDR-1401385806-1",
+            "availablePeriodStartDateTime": "1900-01-01T00:00:00.000+0000",
+            "availablePeriodEndDateTime": null
+          },
+          "lastModifiedOn": "2020-01-16T09:41:46+00:00",
+          "optInOut": null
+        },
+        {
+          "policyContactPurpose": "Correspondence",
+          "name": "PCM-2263625",
+          "recordId": "a2a9D000000CdebQAC",
+          "contactMethod": {
+            "recordId": "a2M9D000000AGnMUAW",
+            "placeName": null,
+            "contactMethodName": null,
+            "contactMethodType": "Address",
+            "contactMethodSubType": null,
+            "contactUsage": null,
+            "preferencePriority": null,
+            "status": "Active",
+            "contactInstructions": null,
+            "phoneCountryCode": null,
+            "phoneAreaCode": null,
+            "phoneNumber": null,
+            "phoneExtension": null,
+            "address": null,
+            "postCode": 63959,
+            "email": null,
+            "externalID": "ADDR-1401385806-4",
+            "sourceSystem": "CAS",
+            "integrationKey": "CAS-ADDR-1401385806-4",
+            "availablePeriodStartDateTime": "1900-01-01T00:00:00.000+0000",
+            "availablePeriodEndDateTime": null
+          },
+          "lastModifiedOn": "2020-01-16T09:41:46+00:00",
+          "optInOut": null
+        },
+        {
+          "policyContactPurpose": "Residential",
+          "name": "PCM-2263653",
+          "recordId": "a2a9D000000Cdf3QAC",
+          "contactMethod": {
+            "recordId": "a2M9D000000AGnnUAG",
+            "placeName": null,
+            "contactMethodName": null,
+            "contactMethodType": "Address",
+            "contactMethodSubType": null,
+            "contactUsage": null,
+            "preferencePriority": null,
+            "status": "Active",
+            "contactInstructions": null,
+            "phoneCountryCode": null,
+            "phoneAreaCode": null,
+            "phoneNumber": null,
+            "phoneExtension": null,
+            "address": null,
+            "postCode": null,
+            "email": null,
+            "externalID": "ADDR-1402227956-1",
+            "sourceSystem": "CAS",
+            "integrationKey": "CAS-ADDR-1402227956-1",
+            "availablePeriodStartDateTime": "1900-01-01T00:00:00.000+0000",
+            "availablePeriodEndDateTime": null
+          },
+          "lastModifiedOn": "2020-01-16T09:41:46+00:00",
+          "optInOut": null
+        },
+        {
+          "policyContactPurpose": "Correspondence",
+          "name": "PCM-2263654",
+          "recordId": "a2a9D000000Cdf4QAC",
+          "contactMethod": {
+            "recordId": "a2M9D000000AGnnUAG",
+            "placeName": null,
+            "contactMethodName": null,
+            "contactMethodType": "Address",
+            "contactMethodSubType": null,
+            "contactUsage": null,
+            "preferencePriority": null,
+            "status": "Active",
+            "contactInstructions": null,
+            "phoneCountryCode": null,
+            "phoneAreaCode": null,
+            "phoneNumber": null,
+            "phoneExtension": null,
+            "address": null,
+            "postCode": null,
+            "email": null,
+            "externalID": "ADDR-1402227956-1",
+            "sourceSystem": "CAS",
+            "integrationKey": "CAS-ADDR-1402227956-1",
+            "availablePeriodStartDateTime": "1900-01-01T00:00:00.000+0000",
+            "availablePeriodEndDateTime": null
+          },
+          "lastModifiedOn": "2020-01-16T09:41:46+00:00",
+          "optInOut": null
+        }
+      ],
+      "policyCertificate": null,
+      "policyOwner": null,
+      "policyInsured": [
+        {
+          "individualRecordId": "0019D0000079mRhQAI",
+          "basicInfo": {
+            "lastName": "JTOKVWXWJJSWK",
+            "firstName": null,
+            "middleName": null,
+            "age": 16448,
+            "dateOfBirth": "1975-01-06T00:00:00+00:00",
+            "gender": "Male",
+            "smokingStatus": "PLACE HOLDER"
+          },
+          "contactInfo": null,
+          "registrations": null,
+          "recordId": "a2X9D0000004L3sUAE",
+          "endDate": null,
+          "integrationKey": "CAS-1499045544-I-1402227956-01",
+          "isPrimary": false,
+          "name": "PAR-2059494",
+          "relationshipToInsured": "Self",
+          "role": "Insured",
+          "rolePercentage": null,
+          "startDate": "2017-07-03"
+        }
+      ],
+      "policyBeneficiaries": null,
+      "components": null,
+      "agents": [
+        {
+          "agentRecordId": "0019D0000079ldqQAA",
+          "agentStatus": "Active",
+          "basicInfo": {
+            "lastName": "J KX OQO O W OWSK",
+            "firstName": null,
+            "middleName": null,
+            "gender": "Male",
+            "code": null,
+            "jobTitle": null
+          },
+          "contactInfo": {
+            "email": "sit1-0r561@test.com",
+            "phone": null,
+            "photoUrl": "/services/images/photo/0019D0000079ldqQAA"
+          },
+          "recordId": "a2X9D0000004L34UAE",
+          "endDate": null,
+          "integrationKey": "CAS-1499045544-0R561",
+          "isPrimary": false,
+          "name": "PAR-2059444",
+          "role": "Agent",
+          "startDate": "2017-07-03"
+        }
+      ],
+      "autoPay": null,
+      "policyAmountDetails": {
+        "policyNumber": "1499045544",
+        "planCoverageAmount": 1.5,
+        "paymentDueAmount": 364819,
+        "localCurrency": "SGD",
+        "fundSwitchWaiveCount": null,
+        "policyFund": {
+          "totalFundValue": 4,
+          "infoAsOfDate": "18 Jan 2020",
+          "currency": "02",
+          "totalHoldingPeriodReturn": null,
+          "funds": [
+            {
+              "id": null,
+              "fundId": "ULIN4",
+              "fundName": "UL Funds",
+              "minHoldingUnit": null,
+              "minHoldingAmount": null,
+              "unitPrice": 1,
+              "maturityPercentage": null,
+              "allocation": {
+                "unit": 0,
+                "amount": {
+                  "value": 4,
+                  "currency": "02"
+                },
+                "percentage": 100
+              }
+            }
+          ]
+        }
+      },
+      "declarations": null
+    }
+  ],
+  "error": null
+}
